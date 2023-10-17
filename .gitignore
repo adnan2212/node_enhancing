@@ -1,0 +1,7 @@
+.env
+*.zip
+*.pdf
+output.zip
+node_modules
+sample_data.csv
+package-lock.json
